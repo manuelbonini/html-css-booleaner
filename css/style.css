@@ -18,3 +18,58 @@ header {
   height: 70px;
   margin-top: 30px;
 }
+
+/* main */
+
+h1 {
+  font-size: 40px;
+  line-height: 40px;
+  margin-top: 20px;
+}
+
+.autore {
+  color: grey;
+  font-size: 20px;
+}
+
+.autore span {
+  color: lightblue;
+}
+
+.data {
+  font-size: 15px;
+  color: grey;
+}
+
+.immagini {
+  margin-top: 15px;
+}
+
+.giallo {
+  background-color: yellow;
+}
+
+.margini-articoli {
+  margin-top: 20px;
+}
+
+.testo {
+  width: 50%;
+}
+
+table {
+  border-spacing: 0;
+}
+
+table th {
+  text-align: left;
+}
+
+table thead {
+  background-color: blue;
+  color: white;
+}
+
+.dispari {
+  background-color: lightblue;
+}
