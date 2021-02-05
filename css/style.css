@@ -73,3 +73,24 @@ table thead {
 .dispari {
   background-color: lightblue;
 }
+/* fine main*/
+
+/*footer*/
+h3 {
+  color: grey;
+}
+
+.testo-immagini {
+  color: white;
+  width: 300px;
+  height: 250px;
+  margin-top: 20px;
+}
+
+#graph {
+  background-image: url("../img/graph.jpg");
+}
+
+#computer {
+  background-image: url("../img/monitor.jpg");
+}
